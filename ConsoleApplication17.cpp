@@ -101,7 +101,7 @@ int main()
 	{
 		cout << line.second << endl;
 	}
-	return 0;
+	
 }
 
 
